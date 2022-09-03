@@ -2,9 +2,18 @@ class Framework
 {
     constructor()
     {
-        
+
     }
 
+    setup()
+    {
+
+    }
+
+    execute()
+    {
+
+    }
 }
 
 
