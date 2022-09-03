@@ -1,0 +1,8 @@
+documentations:
+  - 'docs/**/*'
+  
+codes:
+  - 'code/**/*'
+
+archived:
+  - 'archive/**/*'

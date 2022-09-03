@@ -1,14 +1,14 @@
 # Default for all
 * text=auto
 
-*.csv diff=text eol=crlf
-*.json diff=text eol=crlf
-*.tsv diff=text eol=crlf
-*.xml diff=text eol=crlf
+*.csv diff=text eol=lf
+*.json diff=text eol=lf
+*.tsv diff=text eol=lf
+*.xml diff=text eol=lf
 
 *.md diff=markdown eol=crlf
 *.sh diff=sh eol=lf
-
+*.js diff=js eol=lf
 
 # Git attributes
 .gitignore text eol=lf
