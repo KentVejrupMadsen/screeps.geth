@@ -6,3 +6,6 @@ codes:
 
 archived:
   - 'archive/**/*'
+
+workflow:
+  - '.github/**/*'
