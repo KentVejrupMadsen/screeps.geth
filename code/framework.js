@@ -1,8 +1,10 @@
+const Cache = require( './cache/store.js' );
+
 class Framework
 {
     constructor()
     {
-
+        this.cache = new Cache();
     }
 
     setup()
@@ -10,9 +12,19 @@ class Framework
 
     }
 
+    remember()
+    {
+        this.cache.load();   
+    }
+
     execute()
     {
 
+    }
+
+    memories()
+    {
+        this.cache.save();
     }
 }
 
