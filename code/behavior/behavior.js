@@ -1,6 +1,3 @@
-module.exports = Behavior;
-
-
 class Behavior
 {
     constructor()
@@ -8,3 +5,5 @@ class Behavior
 
     }
 }
+
+module.exports = Behavior;

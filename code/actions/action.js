@@ -1,6 +1,3 @@
-module.exports = Action;
-
-
 class Action
 {
     constructor()
@@ -8,3 +5,5 @@ class Action
 
     }
 }
+
+module.exports = Action;

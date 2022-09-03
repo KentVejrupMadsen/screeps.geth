@@ -1,6 +1,3 @@
-module.exports = Navigation;
-
-
 class Navigation
 {
     constructor()
@@ -8,3 +5,6 @@ class Navigation
 
     }
 }
+
+
+module.exports = Navigation;
