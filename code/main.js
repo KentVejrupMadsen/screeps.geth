@@ -1,6 +1,8 @@
 // Entry for the loop
-function entry()
+module.exports = 
 {
-  
+    entry()
+    {
+    
+    }
 }
-
