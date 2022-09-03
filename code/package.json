@@ -3,17 +3,29 @@
   "version": "1.0.0",
   "description": "AI for screeps",
   "main": "main.js",
-  "scripts": {
-    "test": "test.js"
+  "scripts": 
+  {
+    "test": "node test.js"
   },
-  "repository": {
+
+  "repository": 
+  {
     "type": "git",
     "url": "git+https://github.com/KentVejrupMadsen/screeps.geth.git"
   },
+
   "author": "Kent vejrup Madsen",
   "license": "MIT",
-  "bugs": {
+  
+  "bugs": 
+  {
     "url": "https://github.com/KentVejrupMadsen/screeps.geth/issues"
   },
-  "homepage": "https://github.com/KentVejrupMadsen/screeps.geth#readme"
+  
+  "homepage": "https://github.com/KentVejrupMadsen/screeps.geth#readme",
+  
+  "dependencies": 
+  {
+    
+  }
 }
