@@ -1,7 +1,6 @@
-function ai_loop()
+// Entry for the loop
+function entry()
 {
   
 }
 
-
-ai_loop();
