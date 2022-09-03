@@ -1,5 +1,7 @@
 name: Labeler
-on: ['pending', 'main']
+on:
+  pull_request:
+    branches: ['pending', 'main']
 
 jobs:
   label:
