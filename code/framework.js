@@ -19,7 +19,7 @@ class Framework
 
     execute()
     {
-
+        
     }
 
     memories()
