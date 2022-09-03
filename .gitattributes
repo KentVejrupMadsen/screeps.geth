@@ -8,7 +8,7 @@
 
 *.md diff=markdown eol=crlf
 *.sh diff=sh eol=lf
-
+*.js diff=js eol=lf
 
 # Git attributes
 .gitignore text eol=lf
